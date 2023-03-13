@@ -1,0 +1,38 @@
+body{
+    padding-top: 30px;
+}
+
+hr{
+    border: 1px dotted #2e84bf;
+    width: 50%;
+    
+    /* color: #e3f2fd; */
+}
+
+a{
+    text-decoration: none;
+}
+
+.main{
+    width: 100vw;
+    /* height: 450px; */
+    
+    /* background-color: aquamarine; */
+}
+
+.tachi_photo{
+    height: 100px;
+    /* border: 1px solid green; */
+}
+
+.tachi_title{
+    height: 100px;
+}
+
+.buttons{
+    height: 100px;
+}
+
+.ficon{
+    width:25px;
+}

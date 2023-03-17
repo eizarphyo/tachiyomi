@@ -1,41 +1,37 @@
-body{
-    padding-top: 40px;
+body {
+  padding-top: 40px;
 }
 
-hr{
-    border: 1px solid black;
-    width: 50%;
-    
-    /* color: #e3f2fd; */
+hr {
+  border: 1px solid orange;
+  width: 50%;
+
+  /* color: #e3f2fd; */
 }
 
-a{
-    text-decoration: none;
+a {
+  text-decoration: none;
 }
 
-
-.main{
-    width: 100vw;
-    /* height: 450px; */
-    
+.main {
+  width: 100vw;
+  /* height: 450px; */
 }
 
-
-.tachi_photo{
-    width: 100px;
+.tachi_photo {
+  width: 100px;
 }
 
-.tachi_title{
-    height: 100px;
+.tachi_title {
+  height: 100px;
 }
 
-.buttons{
-    height: 100px;
+.buttons {
+  height: 100px;
 }
 
-
-.ficon{
-    width:25px;
+.ficon {
+  width: 25px;
 }
 
 .carousel-control-next-icon,
